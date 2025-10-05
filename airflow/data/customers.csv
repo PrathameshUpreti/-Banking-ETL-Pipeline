@@ -1,0 +1,101 @@
+customer_id,name,dob,city,account_type,join_date
+1,Sarah Hughes,1994-01-20,East Nicoleburgh,Savings,2020-07-29
+2,Michael Sanchez,1968-03-04,Kristenburgh,Salary,2015-12-23
+3,Joseph Wells,1995-10-08,Carrtown,Salary,2022-12-26
+4,Bonnie Scott,1962-09-13,North Rachelberg,Salary,2021-04-20
+5,Randall Smith,1965-12-30,Jennifermouth,Fixed Deposit,2020-03-11
+6,Shari Proctor,1968-06-08,West Williammouth,Salary,2017-07-21
+7,Sabrina Taylor,1955-10-24,Port Jasonview,Savings,2018-07-16
+8,David Olson,1994-10-14,South Robertamouth,Salary,2023-10-09
+9,Richard Tyler,2003-12-26,Finleyside,Current,2021-12-06
+10,Brittany Townsend,1973-05-21,New Jaredport,Current,2020-10-31
+11,Eric Lamb,1993-01-19,Vincentshire,Savings,2018-12-18
+12,Sheri Dixon,1997-09-10,Laurafort,Savings,2023-06-01
+13,Maria Nguyen,1963-10-21,Meyersfort,Fixed Deposit,2019-07-15
+14,Marvin Hart,1994-04-03,Lisashire,Salary,2018-01-28
+15,Lee Hicks,1994-03-02,Weberbury,Savings,2023-01-10
+16,Gregory Hernandez,1980-08-12,Amandaberg,Savings,2021-08-17
+17,Colleen Scott,1987-12-10,Carolynside,Salary,2019-05-06
+18,Lisa Webb,2001-06-07,North Bonnie,Current,2019-07-18
+19,Kelsey Walter,1969-08-15,Andersonstad,Savings,2023-08-13
+20,Diane Hoffman,1969-02-20,East Jamie,Savings,2025-07-25
+21,Kristina Vargas,1978-12-01,Angelaport,Salary,2020-03-13
+22,Amy Hayden,1983-11-20,East Traceyside,Savings,2025-01-14
+23,Wayne Thomas,1964-05-23,West Paula,Fixed Deposit,2017-03-22
+24,Hannah Wilson,1997-08-26,Smithbury,Current,2022-06-24
+25,Wendy Greene,2004-08-23,West Marvinmouth,Current,2024-05-25
+26,Diana Graves,2002-01-26,West Lisa,Salary,2018-11-18
+27,John Robinson,1967-10-15,Lindashire,Savings,2016-06-14
+28,Hannah Brown,1980-08-03,Lake Sarah,Fixed Deposit,2016-09-12
+29,Debbie Perez,1957-10-22,South Elizabethfort,Salary,2017-10-02
+30,Pamela Gordon,1990-07-17,Pattymouth,Current,2016-01-03
+31,James Ochoa,1989-07-31,Lisamouth,Fixed Deposit,2016-02-08
+32,Sheila Chapman,1991-07-06,Bowerschester,Fixed Deposit,2018-07-20
+33,James Cain,1990-07-24,Alexanderfort,Current,2020-04-27
+34,Willie Davis,1958-10-17,Lake Johnshire,Current,2025-07-09
+35,Cynthia Brooks,1978-12-07,West Andrea,Fixed Deposit,2016-10-06
+36,William Newman,1989-01-04,Lake Jennifer,Salary,2025-01-09
+37,Elizabeth Smith,1991-06-06,Jamesbury,Salary,2020-04-21
+38,Patricia Ali,1975-02-27,Brandonhaven,Salary,2021-06-17
+39,William Jefferson,1999-03-17,New Lisamouth,Savings,2018-04-12
+40,Jennifer Sweeney,1956-08-27,Nelsontown,Savings,2021-05-28
+41,Lisa Bowen,1963-10-23,Port Williamland,Salary,2020-03-30
+42,Jennifer Warren,1994-05-28,Hudsonmouth,Salary,2021-12-14
+43,Richard Woodward,2003-08-23,North Nicoleton,Salary,2022-07-09
+44,Sean Turner,1980-09-28,West Haleyton,Current,2022-06-18
+45,Stephanie Fuller,1957-03-09,Jasonmouth,Current,2022-08-05
+46,Jenny Guzman,1974-09-11,Paulville,Savings,2023-07-15
+47,Crystal Carter,1975-12-30,Salazarburgh,Salary,2016-07-02
+48,Mary Webster,1961-05-12,Lake Katrinamouth,Current,2018-01-09
+49,Kimberly Hammond,1970-06-04,Davidmouth,Fixed Deposit,2022-09-18
+50,Michelle Pittman,1974-11-03,North Jenniferville,Savings,2025-09-20
+51,Edward Hodge,1978-11-24,Nicholasview,Savings,2024-04-08
+52,Joshua Miles,1993-08-10,Jonathanside,Current,2018-01-01
+53,Tracy Burns,1976-02-16,Port Jennifer,Salary,2021-03-16
+54,Brittany Holland,1980-06-15,Stevenfurt,Savings,2018-03-01
+55,Ronald Marquez,1979-03-09,Johnsonton,Fixed Deposit,2020-08-21
+56,Eric Powell,1962-12-01,East Davidshire,Fixed Deposit,2025-06-16
+57,Kim White,1970-11-10,Bakerhaven,Current,2024-10-23
+58,Thomas Bautista,1981-11-02,Lake Christine,Salary,2019-05-16
+59,Vickie Reyes,1965-03-21,New Tylershire,Savings,2024-05-20
+60,Linda Pierce,1983-11-08,West Tabithabury,Current,2019-09-28
+61,Wayne Hernandez,2004-04-03,Jillton,Salary,2023-06-18
+62,Kimberly Williams,1960-11-17,South Nicolemouth,Savings,2015-12-17
+63,Dustin Jones,2000-10-30,Lake Jonathanstad,Savings,2019-09-26
+64,Stacy Peterson,1999-11-26,Castilloton,Savings,2016-05-31
+65,Derrick Rodriguez,1958-01-21,Meghantown,Salary,2017-01-29
+66,Juan Pittman,1993-01-16,Singletonhaven,Fixed Deposit,2020-06-04
+67,Katelyn Thompson,1976-09-11,Lake Daniellefort,Fixed Deposit,2018-01-17
+68,Norma Moran,1978-06-02,Cassandrafort,Savings,2019-01-24
+69,Brooke Rowe,1995-07-24,Brendamouth,Current,2018-09-19
+70,Lisa Martin,1996-06-09,Eugeneburgh,Current,2022-06-24
+71,Allison Clayton,1962-01-03,Port Samuelhaven,Salary,2022-02-20
+72,Jennifer Castro,1967-08-18,Donaldland,Salary,2025-05-28
+73,Erik Randall,1972-02-21,North Theresa,Current,2023-03-08
+74,Sarah Morrison,1975-04-20,South Georgetown,Savings,2022-12-11
+75,Dawn Mcdonald,1971-01-05,South Saraberg,Current,2018-02-12
+76,Ronald Porter,1968-09-30,Port David,Fixed Deposit,2022-01-06
+77,Tracy Jackson,1973-03-31,Virginiahaven,Current,2021-06-24
+78,Christopher Lee,1955-03-27,Huntshire,Current,2016-04-05
+79,Thomas Jones,1956-11-18,Kimberlyfurt,Fixed Deposit,2020-08-29
+80,Stephen Olson,1974-12-21,Jeremyshire,Savings,2024-03-06
+81,Laura Burns,1967-11-21,Carrieville,Savings,2019-08-04
+82,Alan Johnson,1979-10-02,Port Michaelland,Fixed Deposit,2015-12-28
+83,Julie Sellers,1981-08-04,Kirkstad,Current,2022-04-03
+84,Thomas Sloan,2001-05-27,Lake Timtown,Salary,2015-10-24
+85,John Ortega,1994-02-18,New Ashleyton,Savings,2017-02-06
+86,Christopher Marshall,1969-11-27,Jessicafurt,Salary,2020-03-01
+87,Martha Davis,1999-05-06,Brownport,Current,2019-10-01
+88,Anthony Smith,1962-05-21,New Denisemouth,Fixed Deposit,2017-03-16
+89,Sarah Kennedy,2000-03-28,Fostermouth,Salary,2019-07-15
+90,Karen Young,1959-10-10,East Roy,Current,2021-06-11
+91,Daniel Hall,2005-03-04,East Matthew,Savings,2022-04-15
+92,Heidi Hanna,1964-01-17,Port Kathy,Fixed Deposit,2022-11-12
+93,James Flores,1974-05-29,North Elijah,Fixed Deposit,2015-12-06
+94,Joseph Johnson,1996-08-11,East Davidfort,Current,2018-01-01
+95,Robert Anderson,1980-05-02,Sampsonchester,Savings,2022-09-16
+96,Mary Walker,1988-01-10,South Lindsey,Current,2016-05-01
+97,Craig Ray,1978-08-10,New Lauren,Current,2021-01-18
+98,Brian Fischer,1984-04-26,Johnsonmouth,Savings,2022-09-16
+99,Stephanie Smith,1993-05-12,North Michaelfurt,Salary,2018-03-29
+100,Rebecca Garcia,1970-02-12,Port Dylanchester,Savings,2024-04-08

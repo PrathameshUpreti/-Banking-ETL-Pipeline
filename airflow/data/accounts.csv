@@ -1,0 +1,101 @@
+account_id,customer_id,branch,balance,status
+2001,1,Bradleyville Branch,71848.59,Dormant
+2002,2,Christopherfurt Branch,4376.46,Closed
+2003,3,North Sara Branch,188657.62,Closed
+2004,4,Williamfurt Branch,110764.47,Active
+2005,5,Williamton Branch,164926.22,Active
+2006,6,Williamsside Branch,98965.8,Closed
+2007,7,Lake Tammytown Branch,155375.15,Active
+2008,8,North Jason Branch,179050.22,Active
+2009,9,Sanchezland Branch,161940.01,Active
+2010,10,North Tara Branch,63432.62,Active
+2011,11,Schwartzshire Branch,136651.11,Closed
+2012,12,Lake Kevinport Branch,1067.36,Closed
+2013,13,Johnnyport Branch,117630.88,Closed
+2014,14,South Michele Branch,21787.86,Closed
+2015,15,Lopezside Branch,192361.69,Active
+2016,16,Andersonfort Branch,168437.28,Active
+2017,17,Tammytown Branch,143792.16,Active
+2018,18,Phelpsburgh Branch,170981.03,Closed
+2019,19,South Johnberg Branch,32584.41,Active
+2020,20,Joshuahaven Branch,150408.39,Closed
+2021,21,Barberborough Branch,11402.74,Dormant
+2022,22,Teresaberg Branch,71472.68,Closed
+2023,23,Spencerhaven Branch,89764.65,Closed
+2024,24,North Carolineshire Branch,149569.08,Closed
+2025,25,North Lauren Branch,109354.99,Dormant
+2026,26,North Nicoleland Branch,19268.92,Dormant
+2027,27,Lake Paulside Branch,126198.05,Dormant
+2028,28,West Terri Branch,186726.95,Active
+2029,29,Ashleebury Branch,101336.96,Active
+2030,30,New Nicoleton Branch,79583.12,Closed
+2031,31,Chavezmouth Branch,64044.08,Dormant
+2032,32,New Sarah Branch,186146.11,Active
+2033,33,Gregorychester Branch,86325.73,Active
+2034,34,Mendozamouth Branch,45154.84,Active
+2035,35,East Christopher Branch,72912.7,Active
+2036,36,Port Michaeltown Branch,103126.25,Active
+2037,37,Ramseyborough Branch,76783.24,Active
+2038,38,Melanieborough Branch,146246.97,Active
+2039,39,South Robinbury Branch,85662.4,Active
+2040,40,South Paula Branch,146749.4,Active
+2041,41,Holtmouth Branch,18757.39,Dormant
+2042,42,Moniquehaven Branch,75412.72,Dormant
+2043,43,North Jessicaburgh Branch,91721.7,Dormant
+2044,44,Lake Scott Branch,92996.64,Dormant
+2045,45,Ericside Branch,118977.44,Closed
+2046,46,East Sheilashire Branch,41730.89,Closed
+2047,47,South Howardshire Branch,87851.04,Closed
+2048,48,Port Jennifer Branch,30911.9,Active
+2049,49,Greenfort Branch,74416.48,Closed
+2050,50,South Justinstad Branch,36403.55,Active
+2051,51,South Susan Branch,188452.96,Active
+2052,52,Rodriguezside Branch,149854.99,Active
+2053,53,New Olivia Branch,168153.03,Active
+2054,54,New Lauraport Branch,198586.36,Dormant
+2055,55,Aliciashire Branch,34736.83,Active
+2056,56,Melissaburgh Branch,121420.3,Active
+2057,57,South Zachary Branch,187386.06,Active
+2058,58,South Fred Branch,40411.62,Closed
+2059,59,Port Christopher Branch,45730.51,Active
+2060,60,Christopherton Branch,113387.08,Dormant
+2061,61,Port William Branch,31609.34,Active
+2062,62,Steventon Branch,83728.52,Active
+2063,63,Pamelastad Branch,24025.33,Dormant
+2064,64,South Amberchester Branch,176980.7,Closed
+2065,65,Davidstad Branch,73984.18,Active
+2066,66,Knightmouth Branch,35674.81,Dormant
+2067,67,Smithberg Branch,65384.51,Dormant
+2068,68,West Barbara Branch,73115.63,Dormant
+2069,69,North Madison Branch,16426.41,Dormant
+2070,70,Donaldborough Branch,42191.65,Dormant
+2071,71,South Jody Branch,3773.01,Dormant
+2072,72,New Wandachester Branch,133663.11,Closed
+2073,73,Richardburgh Branch,180119.09,Active
+2074,74,Lake Matthew Branch,168511.04,Dormant
+2075,75,Johnport Branch,143174.23,Closed
+2076,76,Travisfort Branch,14460.1,Dormant
+2077,77,Wallstad Branch,33137.39,Active
+2078,78,Johnborough Branch,152154.29,Dormant
+2079,79,Boyershire Branch,54286.78,Active
+2080,80,Romeroside Branch,157842.41,Dormant
+2081,81,South Nicole Branch,129799.97,Dormant
+2082,82,Leonardstad Branch,125337.81,Active
+2083,83,New Melissa Branch,65864.89,Dormant
+2084,84,Lake Eric Branch,177910.57,Dormant
+2085,85,North Carlyhaven Branch,162556.5,Active
+2086,86,East Shelley Branch,189762.8,Active
+2087,87,Tracyborough Branch,181426.92,Dormant
+2088,88,Port James Branch,68953.62,Dormant
+2089,89,North Tracey Branch,96734.97,Active
+2090,90,South Kevinmouth Branch,24362.02,Dormant
+2091,91,East Lisaport Branch,180059.96,Dormant
+2092,92,North Michael Branch,33271.02,Dormant
+2093,93,North Philip Branch,72961.45,Closed
+2094,94,Zacharyburgh Branch,122241.67,Active
+2095,95,Jamestown Branch,99476.58,Dormant
+2096,96,South Michellehaven Branch,166666.91,Dormant
+2097,97,East Jenniferville Branch,72670.62,Closed
+2098,98,Lake Charles Branch,164192.25,Dormant
+2099,99,New Stephen Branch,8287.58,Dormant
+2100,100,East Leslie Branch,45466.41,Dormant
