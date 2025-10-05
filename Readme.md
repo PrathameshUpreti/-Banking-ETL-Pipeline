@@ -277,23 +277,23 @@ etl_execution_summary  → Pipeline execution statistics
 ## 📸 Screenshots
 
 ### Airflow DAG Visualization
-![Airflow DAG](docs\images\airflow\graph.png)
+![Airflow DAG](docs/images/airflow/graph.png)  
 *26 orchestrated tasks with parallel execution and intelligent dependencies*
 
 ### Execution Timeline
-![Airflow Calender](docs\images\airflow\calender.png)
+![Airflow Calender](docs/images/airflow/calender.png)  
 *Historical run status showing 100% success rate*
 
 ### Snowflake Data Warehouse
-![Snowflake Tables](docs\images\snowflake\snow.png)
+![Snowflake Tables](docs/images/snowflake/snow.png)  
 *All source and analytical tables automatically created*
 
 ### AWS S3 Data Lake
-![S3 Bucket](docs\images\aws\bucket.png)
+![S3 Bucket](docs/images/aws/bucket.png)  
 *Source CSV files stored in S3*
 
 ### Customer Segmentation Results
-![Segmentation](docs\images\snowflake\image.png)
+![Segmentation](docs/images/snowflake/image.png)  
 *Customers classified into Premium, Moderate, and Normal tiers*
 
 ---
@@ -435,6 +435,7 @@ Contributions welcome! Please follow these steps:
 2. Review [Airflow Docs](https://airflow.apache.org/docs/)
 3. Open GitHub issue
 4. Contact author
+
 
 ---
 
